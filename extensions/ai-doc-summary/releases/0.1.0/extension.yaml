@@ -1,0 +1,14 @@
+id: com.github.owncloud.web-extensions.ai-doc-summary
+name: Ai Doc Summary
+subtitle: AI Document Summarizer Sidebar - sidebarPanel + quick-action extension
+license: Apache-2.0
+version: 0.1.0
+authors:
+    - name: ownCloud GmbH
+      url: https://owncloud.com
+tags:
+    - extension
+resources:
+    - label: GitHub
+      icon: github
+      url: https://github.com/owncloud/web-extensions/tree/main/packages/web-app-ai-doc-summary
