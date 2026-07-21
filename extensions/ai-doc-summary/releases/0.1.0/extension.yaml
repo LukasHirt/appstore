@@ -9,16 +9,15 @@ authors:
 tags:
     - ai
     - summarization
-    - productivity
-    - documents
+    - sidebar
+    - document-viewer
 minOCIS: 8.0.4
 resources:
     - label: GitHub
       icon: github
       url: https://github.com/owncloud/web-extensions/tree/main/packages/web-app-ai-doc-summary
 screenshotCaptions:
-    - '"Summarize" appears in the context menu for supported file types only'
-    - clicking "Summarize" opens the Summary sidebar panel
-    - '"Summarize" appears in the context menu for supported file types only'
-    - clicking "Summarize" opens the Summary sidebar panel
-    - '"Summarize" appears in the context menu for supported file types only'
+    - AI-generated summary of a quarterly financial report appears in the sidebar
+    - Turn lengthy meeting notes into key takeaways with one click
+    - Summarize customer support transcripts to catch what matters, fast
+    - Regenerate the summary any time for a fresh AI-generated take
