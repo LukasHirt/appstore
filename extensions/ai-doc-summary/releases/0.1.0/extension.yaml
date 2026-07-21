@@ -7,8 +7,18 @@ authors:
     - name: ownCloud GmbH
       url: https://owncloud.com
 tags:
-    - extension
+    - ai
+    - summarization
+    - productivity
+    - documents
+minOCIS: 8.0.4
 resources:
     - label: GitHub
       icon: github
       url: https://github.com/owncloud/web-extensions/tree/main/packages/web-app-ai-doc-summary
+screenshotCaptions:
+    - '"Summarize" appears in the context menu for supported file types only'
+    - clicking "Summarize" opens the Summary sidebar panel
+    - '"Summarize" appears in the context menu for supported file types only'
+    - clicking "Summarize" opens the Summary sidebar panel
+    - '"Summarize" appears in the context menu for supported file types only'
