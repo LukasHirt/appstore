@@ -7,10 +7,10 @@ authors:
     - name: ownCloud GmbH
       url: https://owncloud.com
 tags:
-    - photo
-    - gallery
+    - photo gallery
     - viewer
     - media
+    - maps
 minOCIS: 7.3.1
 resources:
     - label: GitHub
